@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Pro",
+  "description": "Sistem antrian klinik canggih dengan Text-to-Speech (panggilan suara otomatis) bahasa Indonesia, registrasi pasien, dashboard dokter, dan rekap antrian real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
